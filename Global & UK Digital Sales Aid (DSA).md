@@ -1,0 +1,3 @@
+# Global & UK Digital Sales Aid (DSA)
+
+For these two, global and UK, DSA projects at the 28b agency I created a 50-page digital presentations. I worked with the development and management teams. I chose tasks from the agency’s GitLab board, such as, interactive and static slides and layout. The main technologies used are HTML, SCSS, JS and Handlebars. For example, I created a custom selector feature and a toggle component. I also reused implemented components, including popups, blades, pagination and tabs. Moreover, I helped to meet design requirements and make the components more easily reusable. I was creating MRs answering What, How and Why and reviewing colleague MRs. At the end the project was delivered to the client, who seemed very satisfied.
