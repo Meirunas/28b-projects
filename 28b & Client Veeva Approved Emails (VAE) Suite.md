@@ -1,0 +1,3 @@
+# 28b & Client Veeva Approved Emails (VAE) Suite
+
+These two 28b projects were dealing with examples of emails to showcase to clients or potential clients, which can be used by them. My task was to follow the agency’s or client’s design, create responsive emails and use CRM tokens. I created GitLab repositories and used MJML and CSS to create the emails. I uploaded them on the Veeva CRM to fully test them with tokens, such as retrieve user name with testi@ to check the email appearance on different platforms. Emails from the project were finally presented by the agency’s director to the Veeva Summit. About 10 emails were considered of very high quality across countries and attracted highly positive client feedback.
